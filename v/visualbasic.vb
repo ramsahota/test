@@ -1,5 +1,5 @@
 Module HelloWorld
     Sub Main()
-        MsgBox("Hello world!")
+        MsgBox("Hello world ram!")
     End Sub
 End Module
